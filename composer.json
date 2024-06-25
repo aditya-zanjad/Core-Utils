@@ -1,0 +1,13 @@
+{
+    "name": "aditya-zanjad/core-utils",
+    "description": "A set of core utilities to help you out solve common problems in easier & efficient way.",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "AdityaZanjad\\Utils\\": "src/"
+        }
+    },
+    "require": {}
+}
